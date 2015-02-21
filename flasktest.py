@@ -7,4 +7,4 @@ def index():
     return "Wurssst"
 
 if __name__=="__main__":
-    wurst.run(host="http://mluk.com/", port=8080)
+    wurst.run(host="http://flasktest-mluk.rhcloud.com/", port=8080)
